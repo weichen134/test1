@@ -1,14 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D9015A2FA8B1F9D2D3B65410FDAB32902BAC119B",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "99A2C614E2B4BE8B1A41F6AA5102B7655D30FFE5",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "99A2C614E2B4BE8B1A41F6AA5102B7655D30FFE5" : 0,
     "D9015A2FA8B1F9D2D3B65410FDAB32902BAC119B" : 0,
     "BFB0C39439269AF0BB9CA951BE1D702A68196CCF" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39DC0ACD-026D-4228-8AF9-51654E8BE42A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "99A2C614E2B4BE8B1A41F6AA5102B7655D30FFE5" : "OA%20iphone%203-24\/",
     "D9015A2FA8B1F9D2D3B65410FDAB32902BAC119B" : "OA%20iphone%203-8\/",
     "BFB0C39439269AF0BB9CA951BE1D702A68196CCF" : "OA%20iphone%203-8\/SlideMenu\/"
   },
@@ -16,6 +18,11 @@
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SlideMenu.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/weichen134\/test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "99A2C614E2B4BE8B1A41F6AA5102B7655D30FFE5"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/weichen134\/SlideMenu.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
